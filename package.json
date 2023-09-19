@@ -1,0 +1,27 @@
+{
+  "name": "macha-en-de-beren.be",
+  "version": "1.0.0",
+  "description": "Macha en de Beren website",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/macha-en-de-beren.be/macha-en-de-beren.be.github.io.git"
+  },
+  "keywords": [
+    "music",
+    "band",
+    "covers"
+  ],
+  "author": "maxime@userzero.be",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macha-en-de-beren.be/macha-en-de-beren.be.github.io/issues"
+  },
+  "homepage": "https://macha-en-de-beren.be",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
