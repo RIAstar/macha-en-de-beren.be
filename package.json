@@ -7,11 +7,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/macha-en-de-beren.be/macha-en-de-beren.be.github.io.git"
   },
-  "keywords": [
-    "music",
-    "band",
-    "covers"
-  ],
+  "keywords": ["music", "band", "covers"],
   "author": "maxime@userzero.be",
   "license": "MIT",
   "bugs": {
@@ -19,9 +15,11 @@
   },
   "homepage": "https://macha-en-de-beren.be",
   "scripts": {
-    "start": "http-server ."
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "devDependencies": {
-    "http-server": "^14.1.1"
+    "vite": "^5.2.0"
   }
 }
