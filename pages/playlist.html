@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <link rel="stylesheet" href="../reset.css">
+    <link rel="stylesheet" href="../site.css">
+    <link rel="stylesheet" href="./playlist.css">
+    <script src="./playlist.ts" type="module"></script>
+    <title>Macha en de Beren</title>
+</head>
+
+<body>
+    <header>
+        <a href="..">
+            <img src="/assets/logo.png">
+        </a>
+    </header>
+
+    <div class="container">
+        <div>
+            <h2>playlist</h2>
+            <ul id="playlist" class="playlist"></ul>
+         </div>
+
+        <div>
+            <h2>backlog</h2>
+
+            <header class="backlog-header">
+                <span>
+                    <span>Instrumenten</span>
+                    <span>Extra instrumenten</span>
+                </span>
+                <span>
+                    <span>Toon</span>
+                    <span>Toonaard</span>
+                </span>
+                <span>
+                    <span>BPM</span>
+                    <span>Tempo</span>
+                </span>
+            </header>
+
+            <ol id="backlog" class="backlog"></ol>
+        </div>
+    </div>
+
+    <template id="song-compact">
+        <li>
+            <span data-title></span>
+            <span data-artist></span>
+        </li>
+    </template>
+
+    <template id="song-full">
+        <li>
+            <header>
+                <span data-index></span>
+                <span data-title></span>
+                <span data-artist></span>
+                <span data-status>
+                    <span></span>
+                    <span data-status-label></span>
+                </span>
+            </header>
+            <div>
+                <span data-instruments></span>
+                <span>
+                    <span data-short-keys></span>
+                    <span data-full-keys></span>
+                </span>
+                <span data-bpm></span>
+            </div>
+        </li>
+    </template>
+</body>
