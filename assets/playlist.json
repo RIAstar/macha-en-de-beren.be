@@ -576,5 +576,225 @@
       }
     },
     "status": "rotating"
+  },
+  {
+    "song": "Eerste sneeuw",
+    "artist": "Jan De Wilde",
+    "instruments": ["glockenspiel"],
+    "decade": 90,
+    "keys": ["d-minor"],
+    "bpm": 126,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Estupendo",
+    "artist": "Arsenal",
+    "instruments": [],
+    "decade": 0,
+    "keys": ["c-major"],
+    "bpm": 122,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Jolene",
+    "artist": "Dolly Parton",
+    "instruments": [],
+    "decade": 70,
+    "keys": ["c-sharp-minor"],
+    "bpm": 111,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Country In My Genes",
+    "artist": "Loretta Lynn",
+    "instruments": [],
+    "decade": 0,
+    "keys": ["a-major"],
+    "bpm": 109,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Just a girl",
+    "artist": "No doubt",
+    "instruments": [],
+    "decade": 90,
+    "keys": ["d-major"],
+    "bpm": 108,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Free your mind",
+    "artist": "En vogue",
+    "instruments": [],
+    "decade": 90,
+    "keys": ["g-major"],
+    "bpm": 100,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "La bamba",
+    "artist": "Richie Valens",
+    "instruments": ["accordion"],
+    "decade": 50,
+    "keys": ["c-major"],
+    "bpm": 157,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Groove is in the heart",
+    "artist": "Deee-Lite",
+    "instruments": ["whistle"],
+    "decade": 90,
+    "keys": ["c-sharp-minor"],
+    "bpm": 122,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "You can't hurry love",
+    "artist": "The supremes",
+    "instruments": [],
+    "decade": 60,
+    "keys": ["b-flat-major"],
+    "bpm": 97,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Hound dog",
+    "artist": "Elvis Presley",
+    "instruments": [],
+    "decade": 50,
+    "keys": ["c-major"],
+    "bpm": 87,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Ik leef voor jou",
+    "artist": "Ann Christy",
+    "instruments": ["violin"],
+    "decade": 80,
+    "keys": ["c-major"],
+    "bpm": 130,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Objection",
+    "artist": "Shakira",
+    "instruments": ["accordion"],
+    "decade": 0,
+    "keys": ["b-minor"],
+    "bpm": 179,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Is it",
+    "artist": "Triggerfinger",
+    "instruments": [],
+    "decade": 0,
+    "keys": ["e-minor"],
+    "bpm": 115,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Louise",
+    "artist": "Clouseau",
+    "instruments": [],
+    "decade": 90,
+    "keys": ["c-sharp-minor"],
+    "bpm": 130,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Ebbenhout blues",
+    "artist": "Wigbert",
+    "instruments": ["accordion"],
+    "decade": 90,
+    "keys": ["f-sharp-major"],
+    "bpm": 174,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Is it",
+    "artist": "Triggerfinger",
+    "instruments": [],
+    "decade": 0,
+    "keys": ["e-minor"],
+    "bpm": 115,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Welcome to the black parade",
+    "artist": "My chemical romance",
+    "instruments": [],
+    "decade": 0,
+    "keys": ["d-major"],
+    "bpm": 97,
+    "personal": {},
+    "status": "proposal"
+  },
+  {
+    "song": "Ain't nobody",
+    "artist": "Chaka Khan",
+    "instruments": [],
+    "decade": 80,
+    "keys": ["c-sharp-major"],
+    "bpm": 104,
+    "personal": {},
+    "status": "proposal"
+  },
+  {
+    "song": "John Ryan's polka",
+    "artist": "Highland reign",
+    "instruments": [],
+    "decade": 30,
+    "keys": ["d-major"],
+    "bpm": 148,
+    "personal": {},
+    "status": "proposal"
+  },
+  {
+    "song": "Lithium",
+    "artist": "Nirvana",
+    "instruments": [],
+    "decade": 90,
+    "keys": ["g-major"],
+    "bpm": 123,
+    "personal": {},
+    "status": "proposal"
+  },
+  {
+    "song": "Misirlou",
+    "artist": "Dick Dale",
+    "instruments": [],
+    "decade": 60,
+    "keys": ["e-major"],
+    "bpm": 173,
+    "personal": {},
+    "status": "proposal"
+  },
+  {
+    "song": "Love shack",
+    "artist": "The B-52's",
+    "instruments": [],
+    "decade": 80,
+    "keys": ["f-minor"],
+    "bpm": 134,
+    "personal": {},
+    "status": "proposal"
   }
 ]

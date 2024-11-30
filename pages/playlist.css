@@ -172,6 +172,7 @@ li {
   background-color: #29cf00;
 }
 
+.backlog [data-status="proposal"]::after,
 .backlog [data-status="on-hold"]::after {
   background-color: #cf7500;
 }

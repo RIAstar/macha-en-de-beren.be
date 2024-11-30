@@ -13,9 +13,10 @@ type Status =
     | 'rotating'
     | 'on-hold'
     | 'out'
-    | 'study';
+    | 'study'
+    | 'proposal';
 
-const statusOrder = ['study', 'on-hold', 'out', 'rotating'] satisfies Status[];
+const statusOrder = ['study', 'proposal', 'on-hold', 'out', 'rotating'] satisfies Status[];
 
 const compareByTitle = (a: Song, b: Song) => {
     const titles = [a.song, b.song].map(s => s.replace(/'/g, '').toLowerCase());
