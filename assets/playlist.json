@@ -120,6 +120,9 @@
         "dirt": ["fuzz", "blues"],
         "modulation": "bubbly",
         "notes": "RAT for intro only"
+      },
+      "charles": {
+        "notes": "RAT and short delay"
       }
     },
     "status": "rotating"
@@ -170,7 +173,7 @@
         "modulation": "sweep"
       }
     },
-    "status": "rotating"
+    "status": "on-hold"
   },
   {
     "song": "Şimarik",
@@ -197,10 +200,13 @@
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues"]
+        "dirt": ["overdrive"]
+      },
+      "charles": {
+        "notes": "long delay"
       }
     },
-    "status": "study"
+    "status": "rotating"
   },
   {
     "song": "Sk8er boi",
@@ -252,7 +258,7 @@
   {
     "song": "Noodgeval",
     "artist": "Goldband",
-    "instruments": [],
+    "instruments": ["keys"],
     "decade": 20,
     "keys": ["d-minor"],
     "bpm": 139,
@@ -328,6 +334,20 @@
     "status": "rotating"
   },
   {
+    "song": "New kids in town",
+    "artist": "School is cool",
+    "instruments": ["keys"],
+    "decade": 10,
+    "keys": ["c-major"],
+    "bpm": 86,
+    "personal": {
+      "max": {
+        "modulation": "Thru space"
+      }
+    },
+    "status": "rotating"
+  },
+  {
     "song": "Lifestyles of the rich and the famous",
     "artist": "Good Charlotte",
     "instruments": [],
@@ -338,7 +358,7 @@
       "max": {
         "pick-up": "bridge",
         "dirt": ["blues", "overdrive"],
-        "modulation": "pattern tremolo",
+        "modulation": "flanger",
         "notes": "RAT and volume swell for intro"
       }
     },
@@ -659,7 +679,7 @@
   },
   {
     "song": "You can't hurry love",
-    "artist": "The supremes",
+    "artist": "The Supremes",
     "instruments": [],
     "decade": 60,
     "keys": ["b-flat-major"],
@@ -738,6 +758,46 @@
     "status": "out"
   },
   {
+    "song": "Royals",
+    "artist": "Lorde",
+    "instruments": [],
+    "decade": 10,
+    "keys": ["g-major"],
+    "bpm": 85,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Valerie",
+    "artist": "The Zutons",
+    "instruments": [],
+    "decade": 0,
+    "keys": ["f-major"],
+    "bpm": 169,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "Never forget you",
+    "artist": "Noisettes",
+    "instruments": [],
+    "decade": 0,
+    "keys": ["a-major"],
+    "bpm": 142,
+    "personal": {},
+    "status": "out"
+  },
+  {
+    "song": "The Giver",
+    "artist": "Chappell Roan",
+    "instruments": [],
+    "decade": 20,
+    "keys": ["e-major"],
+    "bpm": 93,
+    "personal": {},
+    "status": "proposal"
+  },
+  {
     "song": "Welcome to the black parade",
     "artist": "My chemical romance",
     "instruments": [],
@@ -764,16 +824,6 @@
     "decade": 30,
     "keys": ["d-major"],
     "bpm": 148,
-    "personal": {},
-    "status": "proposal"
-  },
-  {
-    "song": "Lithium",
-    "artist": "Nirvana",
-    "instruments": [],
-    "decade": 90,
-    "keys": ["g-major"],
-    "bpm": 123,
     "personal": {},
     "status": "proposal"
   },
