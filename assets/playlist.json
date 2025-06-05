@@ -2,14 +2,18 @@
   {
     "song": "Oh no",
     "artist": "The Radio's",
-    "instruments": ["accordion"],
+    "instruments": [
+      "accordion"
+    ],
     "decade": 80,
     "keys": [],
     "bpm": 0,
     "personal": {
       "max": {
         "pick-up": "both",
-        "dirt": ["clean"],
+        "dirt": [
+          "clean"
+        ],
         "modulation": "chorus"
       }
     },
@@ -20,7 +24,9 @@
     "artist": "Republica",
     "instruments": [],
     "decade": 90,
-    "keys": ["d-major"],
+    "keys": [
+      "d-major"
+    ],
     "bpm": 130,
     "personal": {},
     "status": "out"
@@ -30,7 +36,9 @@
     "artist": "Franz Ferdinand",
     "instruments": [],
     "decade": 0,
-    "keys": ["e-minor"],
+    "keys": [
+      "e-minor"
+    ],
     "bpm": 105,
     "personal": {},
     "status": "out"
@@ -40,7 +48,9 @@
     "artist": "Living colour",
     "instruments": [],
     "decade": 90,
-    "keys": ["d-major"],
+    "keys": [
+      "d-major"
+    ],
     "bpm": 156,
     "personal": {},
     "status": "out"
@@ -48,14 +58,20 @@
   {
     "song": "Teenage dirtbag",
     "artist": "Wheatus",
-    "instruments": ["acoustic"],
+    "instruments": [
+      "acoustic"
+    ],
     "decade": 90,
-    "keys": ["e-major"],
+    "keys": [
+      "e-major"
+    ],
     "bpm": 95,
     "personal": {
       "max": {
         "pick-up": "both",
-        "dirt": ["overdrive"],
+        "dirt": [
+          "overdrive"
+        ],
         "notes": "volume swells"
       }
     },
@@ -64,14 +80,20 @@
   {
     "song": "Nah neh nah",
     "artist": "Vaya con dios",
-    "instruments": ["acoustic"],
+    "instruments": [
+      "acoustic"
+    ],
     "decade": 90,
-    "keys": ["f-sharp-major"],
+    "keys": [
+      "f-sharp-major"
+    ],
     "bpm": 112,
     "personal": {
       "max": {
         "pick-up": "neck",
-        "dirt": ["clean"]
+        "dirt": [
+          "clean"
+        ]
       }
     },
     "status": "rotating"
@@ -81,12 +103,17 @@
     "artist": "Wanda Jackson,Elvis Presley",
     "instruments": [],
     "decade": 50,
-    "keys": ["e-major"],
+    "keys": [
+      "e-major"
+    ],
     "bpm": 167,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues", "overdrive"]
+        "dirt": [
+          "blues",
+          "overdrive"
+        ]
       }
     },
     "status": "rotating"
@@ -96,12 +123,18 @@
     "artist": "Disney",
     "instruments": [],
     "decade": 10,
-    "keys": ["a-flat-major"],
+    "keys": [
+      "a-flat-major"
+    ],
     "bpm": 137,
     "personal": {
       "max": {
         "pick-up": "both",
-        "dirt": ["clean", "blues", "overdrive"],
+        "dirt": [
+          "clean",
+          "blues",
+          "overdrive"
+        ],
         "notes": "medium delay"
       }
     },
@@ -110,14 +143,21 @@
   {
     "song": "Bad guy",
     "artist": "Billie Eilish",
-    "instruments": ["violin"],
+    "instruments": [
+      "violin"
+    ],
     "decade": 10,
-    "keys": ["g-major"],
+    "keys": [
+      "g-major"
+    ],
     "bpm": 135,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["fuzz", "blues"],
+        "dirt": [
+          "fuzz",
+          "blues"
+        ],
         "modulation": "bubbly",
         "notes": "RAT for intro only"
       },
@@ -132,12 +172,18 @@
     "artist": "Bloc party",
     "instruments": [],
     "decade": 0,
-    "keys": ["b-flat-minor"],
+    "keys": [
+      "b-flat-minor"
+    ],
     "bpm": 150,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues", "overdrive", "fuzz"],
+        "dirt": [
+          "blues",
+          "overdrive",
+          "fuzz"
+        ],
         "notes": "no delay most of the song; wide sweep for solo"
       }
     },
@@ -148,12 +194,16 @@
     "artist": "Queens of the stone age",
     "instruments": [],
     "decade": 0,
-    "keys": ["c-major"],
+    "keys": [
+      "c-major"
+    ],
     "bpm": 170,
     "personal": {
       "max": {
         "pick-up": "neck",
-        "dirt": ["overdrive"],
+        "dirt": [
+          "overdrive"
+        ],
         "notes": "no delay"
       }
     },
@@ -162,14 +212,20 @@
   {
     "song": "Eén miljoen meter (KOTK campagnelied)",
     "artist": "Yevgueni",
-    "instruments": ["acoustic", "violin", "keys"],
+    "instruments": [
+      "acoustic",
+      "violin",
+      "keys"
+    ],
     "decade": 10,
     "keys": [],
     "bpm": 0,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues"],
+        "dirt": [
+          "blues"
+        ],
         "modulation": "sweep"
       }
     },
@@ -178,14 +234,23 @@
   {
     "song": "Şimarik",
     "artist": "Tarkan",
-    "instruments": ["acoustic", "violin", "keys"],
+    "instruments": [
+      "acoustic",
+      "violin",
+      "keys"
+    ],
     "decade": 90,
-    "keys": ["g-major"],
+    "keys": [
+      "g-major"
+    ],
     "bpm": 97,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues", "overdrive"]
+        "dirt": [
+          "blues",
+          "overdrive"
+        ]
       }
     },
     "status": "study"
@@ -193,14 +258,20 @@
   {
     "song": "Liberty song",
     "artist": "Levellers",
-    "instruments": ["violin"],
+    "instruments": [
+      "violin"
+    ],
     "decade": 90,
-    "keys": ["g-major"],
+    "keys": [
+      "g-major"
+    ],
     "bpm": 76,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["overdrive"]
+        "dirt": [
+          "overdrive"
+        ]
       },
       "charles": {
         "notes": "long delay"
@@ -213,12 +284,17 @@
     "artist": "Avril Lavigne",
     "instruments": [],
     "decade": 90,
-    "keys": ["c-major"],
+    "keys": [
+      "c-major"
+    ],
     "bpm": 150,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["overdrive", "fuzz"]
+        "dirt": [
+          "overdrive",
+          "fuzz"
+        ]
       }
     },
     "status": "rotating"
@@ -226,14 +302,24 @@
   {
     "song": "Instant street",
     "artist": "Deus",
-    "instruments": ["acoustic", "violin", "keys"],
+    "instruments": [
+      "acoustic",
+      "violin",
+      "keys"
+    ],
     "decade": 90,
-    "keys": ["g-major"],
+    "keys": [
+      "g-major"
+    ],
     "bpm": 119,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["clean", "blues", "overdrive"],
+        "dirt": [
+          "clean",
+          "blues",
+          "overdrive"
+        ],
         "modulation": "destroy"
       }
     },
@@ -242,14 +328,22 @@
   {
     "song": "'t Smidje",
     "artist": "Laïs",
-    "instruments": ["violin", "accordion"],
+    "instruments": [
+      "violin",
+      "accordion"
+    ],
     "decade": 90,
-    "keys": ["a-minor"],
+    "keys": [
+      "a-minor"
+    ],
     "bpm": 134,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues", "fuzz"],
+        "dirt": [
+          "blues",
+          "fuzz"
+        ],
         "notes": "RAT only for solo"
       }
     },
@@ -258,14 +352,20 @@
   {
     "song": "Noodgeval",
     "artist": "Goldband",
-    "instruments": ["keys"],
+    "instruments": [
+      "keys"
+    ],
     "decade": 20,
-    "keys": ["d-minor"],
+    "keys": [
+      "d-minor"
+    ],
     "bpm": 139,
     "personal": {
       "max": {
         "pick-up": "both",
-        "dirt": ["clean"],
+        "dirt": [
+          "clean"
+        ],
         "modulation": "filter"
       }
     },
@@ -274,14 +374,21 @@
   {
     "song": "Walk like an Egyptian",
     "artist": "The Bangles",
-    "instruments": ["beat-ring"],
+    "instruments": [
+      "beat-ring"
+    ],
     "decade": 80,
-    "keys": ["b-major"],
+    "keys": [
+      "b-major"
+    ],
     "bpm": 103,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["overdrive", "fuzz"],
+        "dirt": [
+          "overdrive",
+          "fuzz"
+        ],
         "notes": "RAT only for solo"
       }
     },
@@ -292,12 +399,16 @@
     "artist": "Jet",
     "instruments": [],
     "decade": 0,
-    "keys": ["d-major"],
+    "keys": [
+      "d-major"
+    ],
     "bpm": 105,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["overdrive"]
+        "dirt": [
+          "overdrive"
+        ]
       }
     },
     "status": "rotating"
@@ -307,12 +418,18 @@
     "artist": "Janice Joplin",
     "instruments": [],
     "decade": 60,
-    "keys": ["e-major"],
+    "keys": [
+      "e-major"
+    ],
     "bpm": 161,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["overdrive", "blues", "RAT"],
+        "dirt": [
+          "overdrive",
+          "blues",
+          "RAT"
+        ],
         "modulation": "univibe"
       }
     },
@@ -321,14 +438,21 @@
   {
     "song": "Drunken lullabies",
     "artist": "Flogging Molly",
-    "instruments": ["violin", "accordion"],
+    "instruments": [
+      "violin",
+      "accordion"
+    ],
     "decade": 0,
-    "keys": ["g-major"],
+    "keys": [
+      "g-major"
+    ],
     "bpm": 156,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["overdrive"]
+        "dirt": [
+          "overdrive"
+        ]
       }
     },
     "status": "rotating"
@@ -336,9 +460,13 @@
   {
     "song": "New kids in town",
     "artist": "School is cool",
-    "instruments": ["keys"],
+    "instruments": [
+      "keys"
+    ],
     "decade": 10,
-    "keys": ["c-major"],
+    "keys": [
+      "c-major"
+    ],
     "bpm": 86,
     "personal": {
       "max": {
@@ -352,12 +480,17 @@
     "artist": "Good Charlotte",
     "instruments": [],
     "decade": 0,
-    "keys": ["c-sharp-major"],
+    "keys": [
+      "c-sharp-major"
+    ],
     "bpm": 106,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues", "overdrive"],
+        "dirt": [
+          "blues",
+          "overdrive"
+        ],
         "modulation": "flanger",
         "notes": "RAT and volume swell for intro"
       }
@@ -369,7 +502,9 @@
     "artist": "Norah Jones",
     "instruments": [],
     "decade": 0,
-    "keys": ["a-flat-major"],
+    "keys": [
+      "a-flat-major"
+    ],
     "bpm": 157,
     "personal": {},
     "status": "out"
@@ -377,9 +512,13 @@
   {
     "song": "Another way to die",
     "artist": "Jack White & Alicia Keys",
-    "instruments": ["violin"],
+    "instruments": [
+      "violin"
+    ],
     "decade": 0,
-    "keys": ["e-minor"],
+    "keys": [
+      "e-minor"
+    ],
     "bpm": 142,
     "personal": {},
     "status": "out"
@@ -389,7 +528,9 @@
     "artist": "Joss Stone",
     "instruments": [],
     "decade": 0,
-    "keys": ["e-flat-minor"],
+    "keys": [
+      "e-flat-minor"
+    ],
     "bpm": 85,
     "personal": {},
     "status": "out"
@@ -397,14 +538,21 @@
   {
     "song": "Theme from Mission: Impossible",
     "artist": "TV tune",
-    "instruments": ["violin"],
+    "instruments": [
+      "violin"
+    ],
     "decade": 60,
-    "keys": ["f-minor"],
+    "keys": [
+      "f-minor"
+    ],
     "bpm": 90,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues", "overdrive"]
+        "dirt": [
+          "blues",
+          "overdrive"
+        ]
       }
     },
     "status": "out"
@@ -414,7 +562,9 @@
     "artist": "The Raconteurs",
     "instruments": [],
     "decade": 0,
-    "keys": ["a-major"],
+    "keys": [
+      "a-major"
+    ],
     "bpm": 124,
     "personal": {},
     "status": "out"
@@ -424,12 +574,17 @@
     "artist": "Soulwax",
     "instruments": [],
     "decade": 90,
-    "keys": ["d-major"],
+    "keys": [
+      "d-major"
+    ],
     "bpm": 138,
     "personal": {
       "max": {
         "pick-up": "tbd",
-        "dirt": ["blues", "fuzz"],
+        "dirt": [
+          "blues",
+          "fuzz"
+        ],
         "tuning": "drop-d"
       }
     },
@@ -440,12 +595,17 @@
     "artist": "Yasmine",
     "instruments": [],
     "decade": 90,
-    "keys": ["b-flat-minor"],
+    "keys": [
+      "b-flat-minor"
+    ],
     "bpm": 105,
     "personal": {
       "max": {
         "pick-up": "both",
-        "dirt": ["clean", "overdrive"],
+        "dirt": [
+          "clean",
+          "overdrive"
+        ],
         "modulation": "chorus",
         "notes": "overdrive only as solo boost"
       }
@@ -455,14 +615,21 @@
   {
     "song": "Johnny B. Goode",
     "artist": "Chuck Berry",
-    "instruments": ["keys"],
+    "instruments": [
+      "keys"
+    ],
     "decade": 50,
-    "keys": ["b-flat-major"],
+    "keys": [
+      "b-flat-major"
+    ],
     "bpm": 168,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues", "overdrive"],
+        "dirt": [
+          "blues",
+          "overdrive"
+        ],
         "notes": "overdrive only as solo boost"
       }
     },
@@ -473,13 +640,17 @@
     "artist": "Olivia Rodrigo",
     "instruments": [],
     "decade": 20,
-    "keys": ["a-major"],
+    "keys": [
+      "a-major"
+    ],
     "transposed-to": "g-major",
     "bpm": 167,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues"],
+        "dirt": [
+          "blues"
+        ],
         "modulation": "bucket-brigade",
         "drop": 2
       }
@@ -489,14 +660,21 @@
   {
     "song": "Fiesta",
     "artist": "The Pogues",
-    "instruments": ["accordion"],
+    "instruments": [
+      "accordion"
+    ],
     "decade": 80,
-    "keys": ["g-major"],
+    "keys": [
+      "g-major"
+    ],
     "bpm": 153,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues", "overdrive"],
+        "dirt": [
+          "blues",
+          "overdrive"
+        ],
         "notes": "blues drive only for intro"
       }
     },
@@ -507,12 +685,16 @@
     "artist": "Lizzo",
     "instruments": [],
     "decade": 20,
-    "keys": ["b-flat-minor"],
+    "keys": [
+      "b-flat-minor"
+    ],
     "bpm": 109,
     "personal": {
       "max": {
         "pick-up": "both",
-        "dirt": ["clean"],
+        "dirt": [
+          "clean"
+        ],
         "modulation": "aye-aye"
       }
     },
@@ -521,14 +703,20 @@
   {
     "song": "Nu of nooit",
     "artist": "Tröckener Kecks",
-    "instruments": ["accordion"],
+    "instruments": [
+      "accordion"
+    ],
     "decade": 80,
-    "keys": ["b-flat-minor"],
+    "keys": [
+      "b-flat-minor"
+    ],
     "bpm": 111,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["overdrive"],
+        "dirt": [
+          "overdrive"
+        ],
         "notes": "short RAT boost for feedback"
       }
     },
@@ -537,14 +725,22 @@
   {
     "song": "Flowers",
     "artist": "Miley Cyrus",
-    "instruments": ["acoustic", "accordion", "violin"],
+    "instruments": [
+      "acoustic",
+      "accordion",
+      "violin"
+    ],
     "decade": 20,
-    "keys": ["c-major"],
+    "keys": [
+      "c-major"
+    ],
     "bpm": 118,
     "personal": {
       "max": {
         "pick-up": "both",
-        "dirt": ["clean"],
+        "dirt": [
+          "clean"
+        ],
         "modulation": "bucket-brigade"
       }
     },
@@ -553,14 +749,22 @@
   {
     "song": "Daddy Cool",
     "artist": "Boney M",
-    "instruments": ["acoustic", "violin"],
+    "instruments": [
+      "acoustic",
+      "violin"
+    ],
     "decade": 70,
-    "keys": ["f-minor"],
+    "keys": [
+      "f-minor"
+    ],
     "bpm": 124,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["fuzz", "clean"]
+        "dirt": [
+          "fuzz",
+          "clean"
+        ]
       }
     },
     "status": "rotating"
@@ -568,14 +772,23 @@
   {
     "song": "Toxic",
     "artist": "Britney Spears",
-    "instruments": ["acoustic", "violin", "keys"],
+    "instruments": [
+      "acoustic",
+      "violin",
+      "keys"
+    ],
     "decade": 0,
-    "keys": ["f-minor"],
+    "keys": [
+      "f-minor"
+    ],
     "bpm": 143,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["blues", "fuzz"],
+        "dirt": [
+          "blues",
+          "fuzz"
+        ],
         "modulation": "tremolo",
         "notes": "RAT and very wide delay for instrumental bit"
       }
@@ -587,12 +800,16 @@
     "artist": "Spice girls",
     "instruments": [],
     "decade": 90,
-    "keys": ["c-sharp-major"],
+    "keys": [
+      "c-sharp-major"
+    ],
     "bpm": 124,
     "personal": {
       "max": {
         "pick-up": "bridge",
-        "dirt": ["overdrive"]
+        "dirt": [
+          "overdrive"
+        ]
       }
     },
     "status": "rotating"
@@ -600,9 +817,13 @@
   {
     "song": "Eerste sneeuw",
     "artist": "Jan De Wilde",
-    "instruments": ["glockenspiel"],
+    "instruments": [
+      "glockenspiel"
+    ],
     "decade": 90,
-    "keys": ["d-minor"],
+    "keys": [
+      "d-minor"
+    ],
     "bpm": 126,
     "personal": {},
     "status": "out"
@@ -612,7 +833,9 @@
     "artist": "Arsenal",
     "instruments": [],
     "decade": 0,
-    "keys": ["c-major"],
+    "keys": [
+      "c-major"
+    ],
     "bpm": 122,
     "personal": {},
     "status": "out"
@@ -622,7 +845,9 @@
     "artist": "Dolly Parton",
     "instruments": [],
     "decade": 70,
-    "keys": ["c-sharp-minor"],
+    "keys": [
+      "c-sharp-minor"
+    ],
     "bpm": 111,
     "personal": {},
     "status": "out"
@@ -632,7 +857,9 @@
     "artist": "Loretta Lynn",
     "instruments": [],
     "decade": 0,
-    "keys": ["a-major"],
+    "keys": [
+      "a-major"
+    ],
     "bpm": 109,
     "personal": {},
     "status": "out"
@@ -642,7 +869,9 @@
     "artist": "No doubt",
     "instruments": [],
     "decade": 90,
-    "keys": ["d-major"],
+    "keys": [
+      "d-major"
+    ],
     "bpm": 108,
     "personal": {},
     "status": "out"
@@ -652,7 +881,9 @@
     "artist": "En vogue",
     "instruments": [],
     "decade": 90,
-    "keys": ["g-major"],
+    "keys": [
+      "g-major"
+    ],
     "bpm": 100,
     "personal": {},
     "status": "out"
@@ -660,9 +891,13 @@
   {
     "song": "La bamba",
     "artist": "Richie Valens",
-    "instruments": ["accordion"],
+    "instruments": [
+      "accordion"
+    ],
     "decade": 50,
-    "keys": ["c-major"],
+    "keys": [
+      "c-major"
+    ],
     "bpm": 157,
     "personal": {},
     "status": "out"
@@ -670,9 +905,13 @@
   {
     "song": "Groove is in the heart",
     "artist": "Deee-Lite",
-    "instruments": ["whistle"],
+    "instruments": [
+      "whistle"
+    ],
     "decade": 90,
-    "keys": ["c-sharp-minor"],
+    "keys": [
+      "c-sharp-minor"
+    ],
     "bpm": 122,
     "personal": {},
     "status": "out"
@@ -682,7 +921,9 @@
     "artist": "The Supremes",
     "instruments": [],
     "decade": 60,
-    "keys": ["b-flat-major"],
+    "keys": [
+      "b-flat-major"
+    ],
     "bpm": 97,
     "personal": {},
     "status": "out"
@@ -692,7 +933,9 @@
     "artist": "Elvis Presley",
     "instruments": [],
     "decade": 50,
-    "keys": ["c-major"],
+    "keys": [
+      "c-major"
+    ],
     "bpm": 87,
     "personal": {},
     "status": "out"
@@ -700,9 +943,13 @@
   {
     "song": "Ik leef voor jou",
     "artist": "Ann Christy",
-    "instruments": ["violin"],
+    "instruments": [
+      "violin"
+    ],
     "decade": 80,
-    "keys": ["c-major"],
+    "keys": [
+      "c-major"
+    ],
     "bpm": 130,
     "personal": {},
     "status": "out"
@@ -710,9 +957,13 @@
   {
     "song": "Objection",
     "artist": "Shakira",
-    "instruments": ["accordion"],
+    "instruments": [
+      "accordion"
+    ],
     "decade": 0,
-    "keys": ["b-minor"],
+    "keys": [
+      "b-minor"
+    ],
     "bpm": 179,
     "personal": {},
     "status": "out"
@@ -722,7 +973,9 @@
     "artist": "Triggerfinger",
     "instruments": [],
     "decade": 0,
-    "keys": ["e-minor"],
+    "keys": [
+      "e-minor"
+    ],
     "bpm": 115,
     "personal": {},
     "status": "out"
@@ -732,7 +985,9 @@
     "artist": "Clouseau",
     "instruments": [],
     "decade": 90,
-    "keys": ["c-sharp-minor"],
+    "keys": [
+      "c-sharp-minor"
+    ],
     "bpm": 130,
     "personal": {},
     "status": "out"
@@ -740,9 +995,13 @@
   {
     "song": "Ebbenhout blues",
     "artist": "Wigbert",
-    "instruments": ["accordion"],
+    "instruments": [
+      "accordion"
+    ],
     "decade": 90,
-    "keys": ["f-sharp-major"],
+    "keys": [
+      "f-sharp-major"
+    ],
     "bpm": 174,
     "personal": {},
     "status": "out"
@@ -752,7 +1011,9 @@
     "artist": "Triggerfinger",
     "instruments": [],
     "decade": 0,
-    "keys": ["e-minor"],
+    "keys": [
+      "e-minor"
+    ],
     "bpm": 115,
     "personal": {},
     "status": "out"
@@ -762,7 +1023,9 @@
     "artist": "Lorde",
     "instruments": [],
     "decade": 10,
-    "keys": ["g-major"],
+    "keys": [
+      "g-major"
+    ],
     "bpm": 85,
     "personal": {},
     "status": "out"
@@ -772,7 +1035,9 @@
     "artist": "The Zutons",
     "instruments": [],
     "decade": 0,
-    "keys": ["f-major"],
+    "keys": [
+      "f-major"
+    ],
     "bpm": 169,
     "personal": {},
     "status": "out"
@@ -782,7 +1047,9 @@
     "artist": "Noisettes",
     "instruments": [],
     "decade": 0,
-    "keys": ["a-major"],
+    "keys": [
+      "a-major"
+    ],
     "bpm": 142,
     "personal": {},
     "status": "out"
@@ -790,19 +1057,35 @@
   {
     "song": "The Giver",
     "artist": "Chappell Roan",
-    "instruments": [],
+    "instruments": [
+      "violin",
+      "acoustic"
+    ],
     "decade": 20,
-    "keys": ["e-major"],
+    "keys": [
+      "e-major"
+    ],
     "bpm": 93,
-    "personal": {},
-    "status": "proposal"
+    "personal": {
+      "max": {
+        "pick-up": "bridge",
+        "dirt": [
+          "clean",
+          "blues",
+          "overdrive"
+        ]
+      }
+    },
+    "status": "study"
   },
   {
     "song": "Welcome to the black parade",
     "artist": "My chemical romance",
     "instruments": [],
     "decade": 0,
-    "keys": ["d-major"],
+    "keys": [
+      "d-major"
+    ],
     "bpm": 97,
     "personal": {},
     "status": "proposal"
@@ -812,7 +1095,9 @@
     "artist": "Chaka Khan",
     "instruments": [],
     "decade": 80,
-    "keys": ["c-sharp-major"],
+    "keys": [
+      "c-sharp-major"
+    ],
     "bpm": 104,
     "personal": {},
     "status": "proposal"
@@ -822,7 +1107,9 @@
     "artist": "Highland reign",
     "instruments": [],
     "decade": 30,
-    "keys": ["d-major"],
+    "keys": [
+      "d-major"
+    ],
     "bpm": 148,
     "personal": {},
     "status": "proposal"
@@ -832,7 +1119,9 @@
     "artist": "Dick Dale",
     "instruments": [],
     "decade": 60,
-    "keys": ["e-major"],
+    "keys": [
+      "e-major"
+    ],
     "bpm": 173,
     "personal": {},
     "status": "proposal"
@@ -842,9 +1131,33 @@
     "artist": "The B-52's",
     "instruments": [],
     "decade": 80,
-    "keys": ["f-minor"],
+    "keys": [
+      "f-minor"
+    ],
     "bpm": 134,
     "personal": {},
     "status": "proposal"
+  },
+  {
+    "song": "Last girls at the party",
+    "artist": "The Beaches",
+    "instruments": [],
+    "decade": 20,
+    "keys": [
+      "d-major"
+    ],
+    "bpm": 173,
+    "personal": {
+      "max": {
+        "pick-up": "both",
+        "dirt": [
+          "clean",
+          "blues"
+        ],
+        "modulation": "wet room",
+        "notes": "medium delay"
+      }
+    },
+    "status": "study"
   }
 ]
