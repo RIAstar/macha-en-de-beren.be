@@ -1,0 +1,78 @@
+[
+  {
+    "date": "20260920",
+    "event": "Suikeren zondag",
+    "eventUrl": "https://suikerenzondag.be",
+    "location": "Gemeentepark - Lint",
+    "geo": [51.126989, 4.492897],
+    "omapsUrl": "https://omaps.app/04IWPKfRgp/Gemeentepark_Lint"
+  },
+  {
+    "date": "20260815",
+    "event": "Privé BBQ",
+    "location": "Vremde"
+  },
+  {
+    "date": "20260727",
+    "event": "Sterke Jan",
+    "eventUrl": "https://www.sterkejan.be",
+    "location": "Den Biet - Duffel",
+    "geo": [51.083266, 4.514819],
+    "omapsUrl": "https://omaps.app/04IWNOfaTe/Den_Biet"
+  },
+  {
+    "date": "20260621",
+    "event": "Kasper zoekt heldem",
+    "eventUrl": "https://www.kasperzoekthelden.be",
+    "location": "Dorp - Onze-Lieve-Vrouw-Lombeek",
+    "geo": [50.822039, 4.111957],
+    "omapsUrl": "https://omaps.app/o4IR0esr3K/Onze-Lieve-Vrouw-Lombeek"
+  },
+  {
+    "date": "20260612",
+    "event": "Boshoekfeesten",
+    "eventUrl": "https://narrenklub.be",
+    "location": "Boshoek - Boechout",
+    "geo": [51.149362, 4.505905],
+    "omapsUrl": "https://omaps.app/44IWPuLicF/Boshoek"
+  },
+  {
+    "date": "20260502",
+    "event": "OWTIONA Volleybal toernooi",
+    "eventUrl": "https://owtiona.be",
+    "location": "Tent op grasveld achter Acacialaan - Duffel",
+    "geo": [51.0905807, 4.5187396],
+    "omapsUrl": "https://omaps.app/04IWNlsFaY/Meadow"
+  },
+  {
+    "date": "20260322",
+    "event": "85 jaar Scouts Lint",
+    "location": "Scoutslokalen - Lint",
+    "geo": [51.1304321, 4.5088135],
+    "omapsUrl": "https://omaps.app/44IWPkFBz3/Scouts%2C_Gidsen_en_Akabe_Lint"
+  },
+  {
+    "date": "20260222",
+    "event": "Stekskesbal Chiro Duffel West",
+    "eventUrl": "https://www.facebook.com/events/gildenhuis-duffel/59ste-stekskesbal/876096528117745",
+    "location": "Gildenhuis - Duffel",
+    "geo": [51.0938160, 4.5002465],
+    "omapsUrl": "https://omaps.app/04IWNjY9U5/Gildenhuis"
+  },
+  {
+    "date": "20251220",
+    "event": "Lichtjesstoet Elzenstraat",
+    "eventUrl": "https://skwlichtfeesten.be",
+    "location": "Kerkplein - Elzenstraat",
+    "geo": [51.0600284, 4.4844590],
+    "omapsUrl": "https://omaps.app/44IWHqDle1/Ons_Parochiehuis"
+  },
+  {
+    "date": "20251213",
+    "event": "Kerstival",
+    "eventUrl": "https://www.facebook.com/events/ferdinand-maesstraat-95-2550-waarloos-belgium/kerstival-2025/1160228795480498",
+    "location": "Jeugdhuis Den Trap - Waarloos",
+    "geo": [51.1037917, 4.4558774],
+    "omapsUrl": "https://omaps.app/04IWM7SZM1/JH_Den_Trap"
+  }
+]
