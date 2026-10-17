@@ -6,7 +6,8 @@ export default defineConfig({
         rolldownOptions: {
             input: {
                 main: resolve(import.meta.dirname, 'index.html'),
-                nested: resolve(import.meta.dirname, 'pages/playlist.html'),
+                agenda: resolve(import.meta.dirname, 'pages/agenda.html'),
+                playlist: resolve(import.meta.dirname, 'pages/playlist.html'),
             }
         }
     }

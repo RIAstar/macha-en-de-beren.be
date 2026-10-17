@@ -37,7 +37,8 @@ a {
   padding: 1.5rem 1.25rem;
 }
 
-section .container {
+section .container,
+section .col {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
@@ -55,15 +56,15 @@ section .container {
 
 @media (min-width:768px) {
   .container {
-    max-width:768px;
-    padding-right:1.5rem;
-    padding-left:1.5rem
+    max-width: 768px;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem
   }
 }
 
 @media (min-width:1024px) {
   .container {
-    max-width:1024px
+    max-width: 1024px
   }
 }
 
@@ -72,14 +73,15 @@ section .container {
     font-size: 22px;
     line-height: 32px;
   }
+
   .container {
-    max-width:1280px
+    max-width: 1280px
   }
 }
 
 @media (min-width:1536px) {
   .container {
-    max-width:1536px
+    max-width: 1536px
   }
 }
 
@@ -140,26 +142,30 @@ header img {
   justify-content: center;
 }
 
-button, a.btn {
+button,
+a.btn {
   padding: 1rem;
   font-weight: 600;
   border-radius: 0.5rem;
   text-decoration: none;
   transition-property: all;
-  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-timing-function: cubic-bezier(.4, 0, .2, 1);
   transition-duration: .15s;
 }
 
-button.dark, a.btn.dark {
+button.dark,
+a.btn.dark {
   color: var(--accent-colour);
   background-color: var(--dark-colour);
 }
 
-button:hover, a.btn:hover {
+button:hover,
+a.btn:hover {
   opacity: 0.9;
 }
 
-button, a.btn {
+button,
+a.btn {
   text-align: center;
   color: var(--dark-colour);
   background-color: var(--accent-colour);
