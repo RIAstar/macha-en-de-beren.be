@@ -1,10 +1,34 @@
 [
   {
+    "date": "2027-09-17",
+    "event": "Ronde van Mortsel dorp",
+    "eventUrl": "https://www.bertmaes.be/wordpress/",
+    "location": "Kerk - Mortsel",
+    "geo": [
+      51.16545,
+      4.463334
+    ],
+    "omapsUrl": "https://omaps.app/44IWkcOA2l/Mortsel-Dorp"
+  },
+  {
+    "date": "2026-12-12",
+    "event": "Kerstival",
+    "location": "Jeugdhuis Den Trap - Waarloos",
+    "geo": [
+      51.1037917,
+      4.4558774
+    ],
+    "omapsUrl": "https://omaps.app/04IWM7SZM1/JH_Den_Trap"
+  },
+  {
     "date": "2026-09-20",
     "event": "Suikeren zondag",
     "eventUrl": "https://suikerenzondag.be",
     "location": "Gemeentepark - Lint",
-    "geo": [51.126989, 4.492897],
+    "geo": [
+      51.126989,
+      4.492897
+    ],
     "omapsUrl": "https://omaps.app/04IWPKfRgp/Gemeentepark_Lint"
   },
   {
@@ -17,7 +41,10 @@
     "event": "Sterke Jan",
     "eventUrl": "https://www.sterkejan.be",
     "location": "Den Biet - Duffel",
-    "geo": [51.083266, 4.514819],
+    "geo": [
+      51.083266,
+      4.514819
+    ],
     "omapsUrl": "https://omaps.app/04IWNOfaTe/Den_Biet"
   },
   {
@@ -25,7 +52,10 @@
     "event": "Kasper zoekt heldem",
     "eventUrl": "https://www.kasperzoekthelden.be",
     "location": "Dorp - Onze-Lieve-Vrouw-Lombeek",
-    "geo": [50.822039, 4.111957],
+    "geo": [
+      50.822039,
+      4.111957
+    ],
     "omapsUrl": "https://omaps.app/o4IR0esr3K/Onze-Lieve-Vrouw-Lombeek"
   },
   {
@@ -33,7 +63,10 @@
     "event": "Boshoekfeesten",
     "eventUrl": "https://narrenklub.be",
     "location": "Boshoek - Boechout",
-    "geo": [51.149362, 4.505905],
+    "geo": [
+      51.149362,
+      4.505905
+    ],
     "omapsUrl": "https://omaps.app/44IWPuLicF/Boshoek"
   },
   {
@@ -41,7 +74,10 @@
     "event": "OWTIONA Volleybal toernooi",
     "eventUrl": "https://owtiona.be",
     "location": "Tent op grasveld achter Acacialaan - Duffel",
-    "geo": [51.0905807, 4.5187396],
+    "geo": [
+      51.0905807,
+      4.5187396
+    ],
     "omapsUrl": "https://omaps.app/04IWNlsFaY/Meadow"
   },
   {
@@ -49,7 +85,10 @@
     "event": "85 jaar Scouts Lint",
     "eventUrl": "https://www.facebook.com/events/1164977469042958",
     "location": "Scoutslokalen - Lint",
-    "geo": [51.1304321, 4.5088135],
+    "geo": [
+      51.1304321,
+      4.5088135
+    ],
     "omapsUrl": "https://omaps.app/44IWPkFBz3/Scouts%2C_Gidsen_en_Akabe_Lint"
   },
   {
@@ -57,7 +96,10 @@
     "event": "Stekskesbal Chiro Duffel West",
     "eventUrl": "https://www.facebook.com/events/gildenhuis-duffel/59ste-stekskesbal/876096528117745",
     "location": "Gildenhuis - Duffel",
-    "geo": [51.0938160, 4.5002465],
+    "geo": [
+      51.0938160,
+      4.5002465
+    ],
     "omapsUrl": "https://omaps.app/04IWNjY9U5/Gildenhuis"
   },
   {
@@ -65,7 +107,10 @@
     "event": "Lichtjesstoet Elzenstraat",
     "eventUrl": "https://skwlichtfeesten.be",
     "location": "Kerkplein - Elzenstraat",
-    "geo": [51.0600284, 4.4844590],
+    "geo": [
+      51.0600284,
+      4.4844590
+    ],
     "omapsUrl": "https://omaps.app/44IWHqDle1/Ons_Parochiehuis"
   },
   {
@@ -73,7 +118,10 @@
     "event": "Kerstival",
     "eventUrl": "https://www.facebook.com/events/ferdinand-maesstraat-95-2550-waarloos-belgium/kerstival-2025/1160228795480498",
     "location": "Jeugdhuis Den Trap - Waarloos",
-    "geo": [51.1037917, 4.4558774],
+    "geo": [
+      51.1037917,
+      4.4558774
+    ],
     "omapsUrl": "https://omaps.app/04IWM7SZM1/JH_Den_Trap"
   }
 ]
