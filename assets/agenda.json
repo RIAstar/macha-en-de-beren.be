@@ -1,6 +1,6 @@
 [
   {
-    "date": "20260920",
+    "date": "2026-09-20",
     "event": "Suikeren zondag",
     "eventUrl": "https://suikerenzondag.be",
     "location": "Gemeentepark - Lint",
@@ -8,12 +8,12 @@
     "omapsUrl": "https://omaps.app/04IWPKfRgp/Gemeentepark_Lint"
   },
   {
-    "date": "20260815",
+    "date": "2026-08-15",
     "event": "Privé BBQ",
     "location": "Vremde"
   },
   {
-    "date": "20260727",
+    "date": "2026-07-27",
     "event": "Sterke Jan",
     "eventUrl": "https://www.sterkejan.be",
     "location": "Den Biet - Duffel",
@@ -21,7 +21,7 @@
     "omapsUrl": "https://omaps.app/04IWNOfaTe/Den_Biet"
   },
   {
-    "date": "20260621",
+    "date": "2026-06-21",
     "event": "Kasper zoekt heldem",
     "eventUrl": "https://www.kasperzoekthelden.be",
     "location": "Dorp - Onze-Lieve-Vrouw-Lombeek",
@@ -29,7 +29,7 @@
     "omapsUrl": "https://omaps.app/o4IR0esr3K/Onze-Lieve-Vrouw-Lombeek"
   },
   {
-    "date": "20260612",
+    "date": "2026-06-12",
     "event": "Boshoekfeesten",
     "eventUrl": "https://narrenklub.be",
     "location": "Boshoek - Boechout",
@@ -37,7 +37,7 @@
     "omapsUrl": "https://omaps.app/44IWPuLicF/Boshoek"
   },
   {
-    "date": "20260502",
+    "date": "2026-05-02",
     "event": "OWTIONA Volleybal toernooi",
     "eventUrl": "https://owtiona.be",
     "location": "Tent op grasveld achter Acacialaan - Duffel",
@@ -45,14 +45,15 @@
     "omapsUrl": "https://omaps.app/04IWNlsFaY/Meadow"
   },
   {
-    "date": "20260322",
+    "date": "2026-03-22",
     "event": "85 jaar Scouts Lint",
+    "eventUrl": "https://www.facebook.com/events/1164977469042958",
     "location": "Scoutslokalen - Lint",
     "geo": [51.1304321, 4.5088135],
     "omapsUrl": "https://omaps.app/44IWPkFBz3/Scouts%2C_Gidsen_en_Akabe_Lint"
   },
   {
-    "date": "20260222",
+    "date": "2026-02-22",
     "event": "Stekskesbal Chiro Duffel West",
     "eventUrl": "https://www.facebook.com/events/gildenhuis-duffel/59ste-stekskesbal/876096528117745",
     "location": "Gildenhuis - Duffel",
@@ -60,7 +61,7 @@
     "omapsUrl": "https://omaps.app/04IWNjY9U5/Gildenhuis"
   },
   {
-    "date": "20251220",
+    "date": "2025-12-20",
     "event": "Lichtjesstoet Elzenstraat",
     "eventUrl": "https://skwlichtfeesten.be",
     "location": "Kerkplein - Elzenstraat",
@@ -68,7 +69,7 @@
     "omapsUrl": "https://omaps.app/44IWHqDle1/Ons_Parochiehuis"
   },
   {
-    "date": "20251213",
+    "date": "2025-12-13",
     "event": "Kerstival",
     "eventUrl": "https://www.facebook.com/events/ferdinand-maesstraat-95-2550-waarloos-belgium/kerstival-2025/1160228795480498",
     "location": "Jeugdhuis Den Trap - Waarloos",

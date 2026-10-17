@@ -38,10 +38,10 @@ const init = () => {
     if (!playlist || !backlog || !compactTpl || !fullTpl)
         throw new Error('Playlist el or item template does not exist');
 
-    const updateList = (data: Song[]) => {
-        data = data.map(song => ({
+    const updateList = (rawData: Song[]) => {
+        const data = rawData.map(song => ({
             ...song,
-            keys: song.keys.map(key => {
+            keysParsed: song.keys.map(key => {
                 const parts = key.split('-');
                 const [note] = parts;
                 const accidental = accidentalSymbol[parts.length === 2 ? '' : parts[1]] ?? '';
@@ -72,13 +72,13 @@ const init = () => {
             })
             .map((song, i) => {
                 const tpl = fullTpl.content.cloneNode(true) as HTMLTemplateElement;
-                tpl.querySelector('[data-index]')!.textContent = i + 1;
+                tpl.querySelector('[data-index]')!.textContent = String(i + 1);
                 tpl.querySelector('[data-title]')!.textContent = song.song;
                 tpl.querySelector('[data-artist]')!.textContent = song.artist;
                 tpl.querySelector('[data-status-label]')!.textContent = song.status;
                 tpl.querySelector('[data-status]')!.setAttribute('data-status', song.status);
-                tpl.querySelector('[data-full-keys]')!.textContent = song.keys.map(x => x.full).join(', ');
-                tpl.querySelector('[data-short-keys]')!.textContent = song.keys.map(x => x.short).join(', ');
+                tpl.querySelector('[data-full-keys]')!.textContent = song.keysParsed.map(x => x.full).join(', ');
+                tpl.querySelector('[data-short-keys]')!.textContent = song.keysParsed.map(x => x.short).join(', ');
                 tpl.querySelector('[data-bpm]')!.textContent = song.bpm.toString();
                 tpl.querySelector('[data-instruments]')!.textContent = song.instruments.join(', ') || 'standard';
                 return tpl;

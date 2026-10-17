@@ -1,0 +1,58 @@
+@import url('../site.css');
+@import url('./data-list.css');
+
+.data-list-header span:last-of-type {
+  min-width: 50%;
+  text-align: right;
+  padding: 0 3.5rem;
+}
+
+.agenda [data-date] {
+  margin-left: auto;
+  opacity: 0.5;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.agenda [data-image] {
+  flex: 1;
+  max-width: 600px;
+  padding-right: 0;
+
+  &:has(img:not([src])) {
+    display: none;
+  }
+
+  img {
+    width: 100%;
+    border-radius: 1rem;
+  }
+}
+
+.agenda [data-place] {
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  gap: 1rem;
+  padding-bottom: 0.5rem;
+
+  a {
+    color: var(--light-colour);
+  }
+}
+
+@media (max-width:640px) {
+  .data-list li div {
+    flex-direction: column;
+    padding-block: 1.25rem;
+  }
+
+  .agenda [data-image] {
+    padding-right: 1rem;
+  }
+
+  .agenda [data-place] {
+    padding: 0 1rem;
+    align-items: center;
+  }
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <link rel="stylesheet" href="./agenda.css">
+    <script src="./agenda.ts" type="module"></script>
+    <title>Macha en de Beren - agenda</title>
+</head>
+
+<body>
+    <header>
+        <a href="..">
+            <img src="/assets/logo.png">
+        </a>
+    </header>
+
+    <div class="container">
+        <div>
+            <h2>agenda</h2>
+
+            <header class="data-list-header agenda-header">
+                <span>Event</span>
+                <span>Datum</span>
+            </header>
+
+            <ol id="agenda" class="data-list agenda"></ol>
+        </div>
+    </div>
+
+    <template id="entry">
+        <li>
+            <header>
+                <span data-index></span>
+                <span data-event><a target="_blank"></a></span>
+                <span data-date></span>
+            </header>
+            <div>
+                <span data-image>
+                    <img></img>
+                </span>
+                <span data-place>
+                    <img src="/assets/location.svg"></img>
+                    <a target="_blank"></a>
+                </span>
+            </div>
+        </li>
+    </template>
+</body>
